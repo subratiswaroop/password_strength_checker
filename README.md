@@ -2,9 +2,9 @@
 password strength checker  
 
 requirements:-
-python
-re library 
-pyfiglet library
+python 
+re library   
+pyfiglet library  
 
 
 HOW TO RUN
