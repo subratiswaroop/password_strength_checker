@@ -3,9 +3,10 @@ password strength checker
 
 requirements:-
 python 
-re library   
+
+re library 
+
 pyfiglet library  
 
 
-HOW TO RUN
-open in vs-code 
+
